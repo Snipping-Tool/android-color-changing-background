@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Colored Screen Changer</string>
+    <string name="colors_label">COLOR</string>
+    <string name="green_button">Green</string>
+    <string name="red_button">Red</string>
+    <string name="blue_button">Blue</string>
+</resources>
